@@ -64,5 +64,5 @@ GitHub - @olahasan
 
 ### Acknowledgments
 
-I would like to thank the **[Elzero wWeb School](https://elzero.org/)** for providing this challenge and to the community for their support.
+I would like to thank the **[Elzero Web School](https://elzero.org/)** for providing this challenge and to the community for their support.
 

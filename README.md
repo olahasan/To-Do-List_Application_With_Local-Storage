@@ -1,10 +1,3 @@
-If you want to open the link in a new tab, you can:
-
-- Press **Ctrl** (or **Cmd** on Mac) while clicking the link.
-- Right-click the link and select **Open link in new tab**.
-
-Otherwise, all links will open in the same tab.
-
 # To-Do-List_Application_With_Local-Storage
 
 A simple and intuitive To-Do List application built with HTML, CSS, and JavaScript. This application allows users to add, delete.Tasks are stored in the browser's local storage, ensuring that they persist even after the page is refreshed.
@@ -36,6 +29,14 @@ Your users should be able to:
 - find all tasks stored in the browser's local storage even after the page is refreshed
 
 ### Links
+
+If you want to open the link in a new tab, you can:
+
+- Press **Ctrl** (or **Cmd** on Mac) while clicking the link.
+- Right-click the link and select **Open link in new tab**.
+
+Otherwise, all links will open in the same tab.
+
 
 - Solution URL: [here](https://github.com/olahasan/To-Do-List_Application_With_Local-Storage)
 

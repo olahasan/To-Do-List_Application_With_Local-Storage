@@ -48,7 +48,7 @@ Otherwise, all links will open in the same tab.
 - Delete tasks
 - Persistent storage using local storage
 
-[Screenshot](./imgs/todo.png)
+![Screenshot](./imgs/todo.png)
 
 ### What I Learned
 

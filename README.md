@@ -1,4 +1,4 @@
-# To-Do-List_Application_With_Local-Storage
+# ToDoList_App_With_Local-Storage-elzero
 
 A simple and intuitive To-Do List application built with HTML, CSS, and JavaScript. This application allows users to add, delete.Tasks are stored in the browser's local storage, ensuring that they persist even after the page is refreshed.
 
@@ -36,9 +36,9 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-- Solution URL: [here](https://github.com/olahasan/To-Do-List_Application_With_Local-Storage)
+- Solution URL: [here](https://github.com/olahasan/ToDoList_App_With_Local-Storage-elzero)
 
-- Live Site URL: [here](https://olahasan.github.io/To-Do-List_Application_With_Local-Storage/)
+- Live Site URL: [here](https://olahasan.github.io/ToDoList_App_With_Local-Storage-elzero/)
 
 ## My process
 

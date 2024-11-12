@@ -2,7 +2,6 @@
 
 A simple and intuitive To-Do List application built with HTML, CSS, and JavaScript. This application allows users to add, delete.Tasks are stored in the browser's local storage, ensuring that they persist even after the page is refreshed.
 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,6 +9,7 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
   - [Links](#links)
 - [My process](#my-process)
   - [Features](#Features)
+  - [Screenshot](#Screenshot)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
@@ -20,7 +20,6 @@ A simple and intuitive To-Do List application built with HTML, CSS, and JavaScri
 ### The challenge
 
 A simple and intuitive To-Do List application built with HTML, CSS, and JavaScript. This application allows users to add, delete.Tasks are stored in the browser's local storage, ensuring that they persist even after the page is refreshed.
-
 
 Your users should be able to:
 
@@ -37,7 +36,6 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-
 - Solution URL: [here](https://github.com/olahasan/To-Do-List_Application_With_Local-Storage)
 
 - Live Site URL: [here](https://olahasan.github.io/To-Do-List_Application_With_Local-Storage/)
@@ -50,9 +48,12 @@ Otherwise, all links will open in the same tab.
 - Delete tasks
 - Persistent storage using local storage
 
+[Screenshot](./imgs/todo.png)
+
 ### What I Learned
 
 Working on this project helped me improve my skills in:
+
 - **HTML**: Structuring web pages and using semantic elements.
 - **CSS**: Styling web pages and creating responsive designs.
 - **JavaScript**: Manipulating the DOM, handling events, and using local storage.
@@ -61,6 +62,7 @@ Working on this project helped me improve my skills in:
 ### Continued Development
 
 In the future, I plan to:
+
 - Add more features such as task categories and due dates.
 - Improve the user interface with better styling and animations.
 - Implement a search functionality to filter tasks.
@@ -73,4 +75,3 @@ GitHub - @olahasan
 ### Acknowledgments
 
 I would like to thank the **[Elzero Web School](https://elzero.org/)** for providing this challenge and to the community for their support.
-
